@@ -1,4 +1,4 @@
-# 🇵🇰 Pak Constitution QLoRA Assistant
+# 🇵🇰 Pak Constitution Fine-Tuning QLoRA Assistant
 
 An end-to-end domain-specific Generative AI project that fine-tunes the **Llama-3-8B-Instruct** model using **QLoRA (Quantized Low-Rank Adaptation)** on the **Constitution of the Islamic Republic of Pakistan**. This project is structured for academic presentation, technical interviews, and automated legal querying.
 
